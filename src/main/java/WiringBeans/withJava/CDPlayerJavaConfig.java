@@ -14,10 +14,10 @@ public class CDPlayerJavaConfig {
         return new FromTheInside();
     }
 
-    @Bean
-    public CDPlayer cdPlayer(){
-        return new CDPlayer(frTheInside());
-    }
+//    @Bean
+////    public CDPlayer cdPlayer(){
+////        return new CDPlayer(frTheInside());
+////    }
 
 
 }
