@@ -1,5 +1,6 @@
-package WiringBeans.hidden;
+package WiringBeans.sharedlibrary;
 
+import WiringBeans.sharedlibrary.CompactDisc;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,7 +1,7 @@
 package WiringBeans;
 
 import WiringBeans.hidden.CDPlayerHiddenConfig;
-import WiringBeans.hidden.CompactDisc;
+import WiringBeans.sharedlibrary.CompactDisc;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

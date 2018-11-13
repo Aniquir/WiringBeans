@@ -1,4 +1,4 @@
-package WiringBeans.hidden;
+package WiringBeans.sharedlibrary;
 
 public interface CompactDisc {
 
